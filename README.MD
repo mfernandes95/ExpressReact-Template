@@ -1,1 +1,1 @@
-# Express & React application
+# Express & React template application
